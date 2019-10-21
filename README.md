@@ -4,7 +4,7 @@
 :one:
 ```
 git clone https://github.com/Masterxhen/musicList-app-batch3.git
-or Download Zip
+or Download Zip and Extract the Package
 ```
 
 
@@ -26,21 +26,21 @@ yarn install
 ```
 
 ### Compiles and hot-reloads for development for client
-:three:
+:three: :computer:
 ```
 quasar dev
 
 ```
 
 ### Compiles the project and minifies for production (appears "dist/spa" folder )
-:four:
+:four: :computer:
 ```
 quasar build
 
 ```
 
 ### Compiles and hot-reloads for development for mobile device [android | ios]
-:five:
+:three: :iphone:
 ```
 quasar mode add cordova
 cd src-cordova
@@ -51,8 +51,8 @@ quasar dev -m cordova -T ios
 
 ```
 
-### Compiles the project and minifies for production (appears "dist/cordova" folder)
-:six:
+### Compiles the project and minifies for production (appears "dist/cordova" folder) [android | ios]
+:four: :iphone:
 ```
 quasar build -m android
 or
