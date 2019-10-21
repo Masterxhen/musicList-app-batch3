@@ -62,7 +62,7 @@ open quasar.conf.js file
 find the devServer Object
 change or uncomment the https: true properties
 ```
-### Before (To open your web development server, set it into this
+### Before (To open your web development server, set it into this)
 ![image](https://user-images.githubusercontent.com/30729644/67187407-b4bc1f00-f41c-11e9-9084-04171a84a422.png)
 ### After
 ![image](https://user-images.githubusercontent.com/30729644/67187518-f77df700-f41c-11e9-97bd-63a2d2d65578.png)
