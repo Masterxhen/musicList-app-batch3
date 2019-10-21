@@ -33,12 +33,14 @@ quasar dev
 ```
 
 ### Compiles the project and minifies for production (appears "dist/spa" folder )
+:four:
 ```
 quasar build
 
 ```
 
 ### Compiles and hot-reloads for development for mobile device [android | ios]
+:five:
 ```
 quasar mode add cordova
 cd src-cordova
@@ -50,6 +52,7 @@ quasar dev -m cordova -T ios
 ```
 
 ### Compiles the project and minifies for production (appears "dist/cordova" folder)
+:six:
 ```
 quasar build -m android
 or
