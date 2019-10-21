@@ -42,21 +42,21 @@ change the var firebaseConfig variable into your firebase console
 
 
 ### Compiles and hot-reloads for development for client
-:three: :computer:
+:four: :computer:
 ```
 quasar dev
 
 ```
 
 ### Compiles the project and minifies for production (appears "dist/spa" folder )
-:four: :computer:
+:five: :computer:
 ```
 quasar build
 
 ```
 
 ### Compiles and hot-reloads for development for mobile device [android | ios]
-:three: :iphone:
+:four: :iphone:
 ```
 quasar mode add cordova
 cd src-cordova
@@ -68,7 +68,7 @@ quasar dev -m cordova -T ios
 ```
 
 ### Compiles the project and minifies for production (appears "dist/cordova" folder) [android | ios]
-:four: :iphone:
+:five: :iphone:
 ```
 quasar build -m android
 or
