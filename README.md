@@ -25,6 +25,22 @@ yarn install
 
 ```
 
+### Firebase Setup 
+:three:
+```
+Find firebase.js under src/boot/firebase.js
+change the var firebaseConfig variable into your firebase console
+
+```
+
+### Project File Configuration
+
+![image](https://user-images.githubusercontent.com/30729644/67186338-7b82af80-f41a-11e9-89bf-1ea61ae7e9ef.png)
+
+### Firebase Console Configuration
+![image](https://user-images.githubusercontent.com/30729644/67186651-18454d00-f41b-11e9-8fe6-8fd62dbfd24d.png)
+
+
 ### Compiles and hot-reloads for development for client
 :three: :computer:
 ```
